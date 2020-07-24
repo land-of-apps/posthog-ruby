@@ -1,0 +1,3 @@
+name: posthog-ruby
+packages:
+  - path: lib

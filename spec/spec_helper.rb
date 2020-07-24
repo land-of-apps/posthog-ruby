@@ -4,6 +4,8 @@ SimpleCov.start
 require 'codecov'
 SimpleCov.formatter = SimpleCov::Formatter::Codecov
 
+require 'appmap/rspec'
+
 require 'posthog'
 require 'active_support/time'
 
